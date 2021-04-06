@@ -1,0 +1,13 @@
+C:\Users\centi\Documents\Estudos\bootcamp-mrv-C#\PrimeirosPassosC#\estruturaPrograma\bin\Debug\netcoreapp3.1\estruturaPrograma.exe
+C:\Users\centi\Documents\Estudos\bootcamp-mrv-C#\PrimeirosPassosC#\estruturaPrograma\bin\Debug\netcoreapp3.1\estruturaPrograma.deps.json
+C:\Users\centi\Documents\Estudos\bootcamp-mrv-C#\PrimeirosPassosC#\estruturaPrograma\bin\Debug\netcoreapp3.1\estruturaPrograma.runtimeconfig.json
+C:\Users\centi\Documents\Estudos\bootcamp-mrv-C#\PrimeirosPassosC#\estruturaPrograma\bin\Debug\netcoreapp3.1\estruturaPrograma.runtimeconfig.dev.json
+C:\Users\centi\Documents\Estudos\bootcamp-mrv-C#\PrimeirosPassosC#\estruturaPrograma\bin\Debug\netcoreapp3.1\estruturaPrograma.dll
+C:\Users\centi\Documents\Estudos\bootcamp-mrv-C#\PrimeirosPassosC#\estruturaPrograma\bin\Debug\netcoreapp3.1\estruturaPrograma.pdb
+C:\Users\centi\Documents\Estudos\bootcamp-mrv-C#\PrimeirosPassosC#\estruturaPrograma\obj\Debug\netcoreapp3.1\estruturaPrograma.csprojAssemblyReference.cache
+C:\Users\centi\Documents\Estudos\bootcamp-mrv-C#\PrimeirosPassosC#\estruturaPrograma\obj\Debug\netcoreapp3.1\estruturaPrograma.AssemblyInfoInputs.cache
+C:\Users\centi\Documents\Estudos\bootcamp-mrv-C#\PrimeirosPassosC#\estruturaPrograma\obj\Debug\netcoreapp3.1\estruturaPrograma.AssemblyInfo.cs
+C:\Users\centi\Documents\Estudos\bootcamp-mrv-C#\PrimeirosPassosC#\estruturaPrograma\obj\Debug\netcoreapp3.1\estruturaPrograma.csproj.CoreCompileInputs.cache
+C:\Users\centi\Documents\Estudos\bootcamp-mrv-C#\PrimeirosPassosC#\estruturaPrograma\obj\Debug\netcoreapp3.1\estruturaPrograma.dll
+C:\Users\centi\Documents\Estudos\bootcamp-mrv-C#\PrimeirosPassosC#\estruturaPrograma\obj\Debug\netcoreapp3.1\estruturaPrograma.pdb
+C:\Users\centi\Documents\Estudos\bootcamp-mrv-C#\PrimeirosPassosC#\estruturaPrograma\obj\Debug\netcoreapp3.1\estruturaPrograma.genruntimeconfig.cache
