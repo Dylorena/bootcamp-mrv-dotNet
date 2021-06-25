@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\centi\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\centi\\.nuget\\packages"
+    ]
+  }
+}
